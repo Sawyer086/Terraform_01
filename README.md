@@ -63,4 +63,4 @@
 
 ![7](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.6.jpg)
 
-
+![8](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.7.jpg)
