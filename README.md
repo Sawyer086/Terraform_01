@@ -87,3 +87,5 @@ If this is false, it will delete the image from the docker local storage on dest
 
 Ответ в коде main.tf:
 keep_locally = true -это означает, что Terraform будет сохранять образ даже после выполнения команды destroy.
+
+![11](https://github.com/Sawyer086/Terraform_01/blob/main/1/2.1.jpg)
