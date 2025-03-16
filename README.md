@@ -55,11 +55,11 @@
 
 Линия 31. "random_string_FAKE" не объявлен в корневом модуле "random_password". Убираем FAKE и меням resulT на result.
 
-###Было:
+### Было:
 
 ![6](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.5.jpg)
 
-###Стало: 
+### Стало: 
 
 ![7](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.6.jpg)
 
