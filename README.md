@@ -55,6 +55,7 @@
 
 Линия 31. "random_string_FAKE" не объявлен в корневом модуле "random_password". Убираем FAKE и меням resulT на result.
 
+
 ### Было:
 
 ![6](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.5.jpg)
@@ -75,3 +76,14 @@
 Можно применять:
 - в автоматизированных CI/CD пайплайнах;
 - в тестовых средах при незначительных изменениях конфигурации.
+
+![9](https://github.com/Sawyer086/Terraform_01/blob/main/1/2.0.jpg)
+
+Строчка из документации terraform провайдера docker:
+
+"keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation.
+
+If this is false, it will delete the image from the docker local storage on destroy operation."
+
+Ответ в коде main.tf:
+keep_locally = true -это означает, что Terraform будет сохранять образ даже после выполнения команды destroy.
