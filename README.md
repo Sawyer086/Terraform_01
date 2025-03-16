@@ -64,3 +64,14 @@
 ![7](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.6.jpg)
 
 ![8](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.7.jpg)
+
+### 6-8
+
+![9](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.8.jpg)
+![10](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.9.jpg)
+
+Команда terraform apply -auto-approve автоматически применяет изменения без подтверждения пользователем. Можно случайно удалить или изменить важные ресурсы.
+
+Можно применять:
+- в автоматизированных CI/CD пайплайнах;
+- в тестовых средах при незначительных изменениях конфигурации.
