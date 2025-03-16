@@ -38,6 +38,11 @@
 
 ## Ответ: 
 ### Задание 1
+### 1-3
+![1](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.0.jpg)
+![2](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.1.jpg)
+![3](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.2.jpg)
+![4](https://github.com/Sawyer086/Terraform_01/blob/main/1/1.3.jpg)
 
-2. Личную, секретную информацию можно хранить в файле terraform.tfvars или другом файле с расширением .tfvars, который игнорируется Git.
-3. 
+Личную, секретную информацию можно хранить в файле terraform.tfvars или другом файле с расширением .tfvars, который игнорируется Git.
+
